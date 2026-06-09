@@ -1,42 +1,61 @@
-# Olá, eu sou Davi Oliveira 👋
 
-Sou estudante de tecnologia e estou desenvolvendo minhas habilidades em programação, resolução de problemas e desenvolvimento de software.
+## Olá! Eu sou Davi Oliveira 👋
 
-Atualmente estou focado em aprender e praticar:
+Sou estudante de programação e estou construindo minha jornada para me tornar um desenvolvedor **Full Stack**.
 
-- 🐍 Python
-- 🧠 Lógica de programação
-- 💻 Algoritmos e estruturas básicas
-- 🧪 Testes de software
-- 🚀 Resolução de exercícios no beecrowd
-- 📚 Desenvolvimento contínuo como programador
+Atualmente venho estudando e praticando lógica de programação, desenvolvimento web e criação de projetos que me ajudem a evoluir tanto no **front-end** quanto no **back-end**. Gosto de aprender na prática, resolver desafios e transformar ideias em aplicações funcionais.
 
 ---
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
-Gosto de aprender colocando a mão na massa, resolvendo exercícios, criando pequenos projetos e entendendo como cada parte do código funciona.
-
-Meu objetivo é evoluir como desenvolvedor, melhorar minha lógica e construir projetos cada vez mais completos.
+- 💻 Estudando desenvolvimento **Full Stack**
+- 🌱 Aprendendo e praticando com **JS/TS, Delphi, Python e outras tecnologias**
+- 🎯 Buscando evoluir todos os dias como desenvolvedor
+- 📚 Compartilhando minha evolução através dos meus projetos no GitHub
+- ⚡ Focado em construir uma base sólida em programação
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+### 🛠️ Tecnologias Conhecidas
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="Davi-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Davi-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Davi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg">
 </div>
 
 ---
 
-## 📌 Atualmente estudando
+### 📊 Estatísticas do GitHub
 
-```txt
-Python
-Lógica de programação
-Algoritmos
-Testes de software
-Git e GitHub
+<div align="center">
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davieoliveira&layout=compact&theme=tokyonight"
+/>
+
+</div>
+
+---
+
+### 📫 Onde me encontrar
+
+<div> 
+  <a href="mailto:daviecostaoliveira@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://www.linkedin.com/in/davieoliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://www.instagram.com/daviecoliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
