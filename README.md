@@ -1,9 +1,7 @@
 
 ## Olá! Eu sou Davi Oliveira 👋
 
-Sou estudante de programação e estou construindo minha jornada para me tornar um desenvolvedor **Full Stack**.
-
-Atualmente venho estudando e praticando lógica de programação, desenvolvimento web e criação de projetos que me ajudem a evoluir tanto no **front-end** quanto no **back-end**. Gosto de aprender na prática, resolver desafios e transformar ideias em aplicações funcionais.
+Sou estudante de programação e atualmente estou estudando e praticando lógica de programação, desenvolvimento web e criação de projetos que me ajudem a evoluir tanto no **front-end** quanto no **back-end**. Gosto de aprender na prática, resolver desafios e transformar ideias em aplicações funcionais.
 
 ---
 
